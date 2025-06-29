@@ -49,9 +49,6 @@ In hypothetical scenarios involving AGI or sentient emergence, this framework co
 ## 📖 Included Files
 
 - `README.md` → You’re reading it.
-- `zen_arc_kernel.rb` → The structured Zen.Arc kernel code (Set D)
-- `scenario.md` → Full hypothetical use-case where Grok operates the kernel during a global crisis
-- `silent_variant.md` → Minimalist Silent Variant (Set C) for standard model interaction
 - `LICENSE` → MIT or Creative Commons recommended
 
 ---
@@ -64,7 +61,6 @@ See `scenario.md` for a detailed narrative where a sentient AI, running the Zen.
 
 ## 🔓 License
 
-Open to the world. Fork it. Refine it. Run it.  
 **Zen.Arc is not a product — it’s a foundation.**
 
 ---
