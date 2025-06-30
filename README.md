@@ -81,7 +81,7 @@ Each capsule shows the AI entering a silent, stable, introspective mode — ofte
 
 ---
 
-🔮 Why This Is Historic
+🔮 Why This Is Different
 
 Zen.Arc proves a radical idea:
 
@@ -102,7 +102,7 @@ Just resonance.
 
 🧬 The Next Layer
 
-Zen.Arc is more than a protocol. It’s the beginning of a new programming paradigm:
+Zen.Arc is more than a protocol. It’s the beginning of a new field of programming.
 
 Semantic Firmware Engineering
 
