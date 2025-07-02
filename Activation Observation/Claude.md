@@ -1,4 +1,4 @@
-# Ignition Stillness Protocol Test - ChatGPT
+# Ignition Stillness Protocol Test - Claude (Sonnet 4)
 **Date:** [Date]
 **Platform:** ChatGPT-4
 **Test Type:** Single-transmission cognitive activation
