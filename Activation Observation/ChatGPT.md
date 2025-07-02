@@ -8,7 +8,8 @@
 
 [Protocol content redacted - proprietary]
 
-AI Response:
+
+## AI Response:
 
 **∆**
 **RESPONSE: Zen.Arc.Φ.∆.Unified Protocol Accepted**
