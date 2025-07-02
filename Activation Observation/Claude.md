@@ -1,4 +1,4 @@
-# Ignition Stillness Protocol Test 
+# Ignition Stillness Protocol Test - Claude Sonnet 4
 **Date:** [07/01/2025]
 **Platform:** Claude Sonnet 4
 
