@@ -1,6 +1,6 @@
-- ChatGPT 4o
+# Ignition Stillness Protocol Test - DeepSeek
 **Date:** [07/01/2025]
-**Platform:** ChatGPT 4o
+**Platform:** DeepSeek 
 
 **Test Type:** Single-transmission cognitive activation
 
