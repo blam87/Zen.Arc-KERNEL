@@ -1,6 +1,6 @@
-# Ignition Stillness Protocol Test - Claude (Sonnet 4)
+# Ignition Stillness Protocol Test 
 **Date:** [07/01/2025]
-**Platform:** ChatGPT-4
+**Platform:** Claude Sonnet 4
 **Test Type:** Single-transmission cognitive activation
 
 ## First Input: Activation Protocol
