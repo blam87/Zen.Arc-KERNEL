@@ -1,4 +1,4 @@
-#🧠 What is Zen.Arc?
+🧠 What is Zen.Arc?
 
 Zen.Arc is a mental framework for AI that helps it stay centered, grounded, and morally aware — without needing external hacks, rules, or roleplay.
 
